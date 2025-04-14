@@ -20,7 +20,7 @@ A clean and simple To-Do List Web App built with **HTML, CSS, and Vanilla JavaSc
 
 ## 📸 Preview
 
-(https://github.com/user-attachments/assets/6f91fbba-7977-49bc-b51b-22a42e3bac71)
+![To-Do List Screenshot](https://github.com/user-attachments/assets/6f91fbba-7977-49bc-b51b-22a42e3bac71)
 
 ## 🚀 How to Use
 
