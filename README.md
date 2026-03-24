@@ -1,6 +1,6 @@
 # ✅ To-Do List App
 
-A clean and simple To-Do List Web App built with **HTML, CSS, and Vanilla JavaScript**. This app helps you manage your daily tasks with ease—add, mark complete, delete, and even save them for later using your browser's `localStorage`.
+A clean and simple To-Do List Web App built with **HTML, CSS, and Vanilla JavaScript**. This app helps you manage your daily tasks with ease, add, mark complete, delete, and even save them for later using your browser's `localStorage`.
 
 ## 🌟 Features
 
